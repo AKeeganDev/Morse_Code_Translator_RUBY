@@ -8,9 +8,9 @@ This repository includes .rb (RUBY) files that can be used in IRB on the command
 This procedure assumes you have Ruby installed.
 
 1) Go to your terminal and navigate to where you store project repositories
-2) run the command $git clone git@github.com:AKeeganDev/Morse_Code_Translator_RUBY.git
-3) Type $IRB in your terminal to enter the Ruby shell
-4) Copy and paste the code from our Ruby file morse_code.rb and see the results.
+2) run the command `$git clone git@github.com:AKeeganDev/Morse_Code_Translator_RUBY.git`
+3) Type `$IRB` in your terminal to enter the Ruby shell
+4) Copy and paste the code from our Ruby file `morse_code.rb` and see the results.
 
 ## Authors
 
@@ -19,8 +19,6 @@ This procedure assumes you have Ruby installed.
 - GitHub: [@AKeeganDev](https://github.com/AKeeganDev)
 - Twitter: [@AkeeganDev](https://twitter.com/AkeeganDev)
 - LinkedIn: [AKeeganDev](https://linkedin.com/in/AKeeganDev)
-
-## Author
 
 👤 **Kemigabo Catherine**
 
